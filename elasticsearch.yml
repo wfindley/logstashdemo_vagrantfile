@@ -1,0 +1,2 @@
+network.host: _eth1:ipv4_
+discovery.zen.ping.unicast.hosts: ["elasticsearch-01", "elasticsearch-02"]
