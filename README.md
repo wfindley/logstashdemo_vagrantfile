@@ -19,7 +19,9 @@ I tried to make it all mostly work on first provision, but it might need a few r
 Connect to the kibana instance at http://localhost:5601 after you get the whole thing running.
 
 basic workflow:
+```
    vagrant up
    vagrant provision
    vagrant ssh <MACHINENAME>
    vagrant destroy
+```
