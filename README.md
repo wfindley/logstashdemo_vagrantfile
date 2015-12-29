@@ -1,7 +1,8 @@
 # logstashdemo_vagrantfile
 A working demo of an ELK stack in a multivm Vagrantfile. 
 
-```logstashdemo_vagrantfile|master ⇒ vagrant status 
+```
+logstashdemo_vagrantfile|master ⇒ vagrant status 
 Current machine states:
 
 elasticsearch-01          not created (virtualbox)
